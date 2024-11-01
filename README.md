@@ -1,1 +1,1 @@
-# lab3
+# i did this repository for doing lab3. Folder ".osp" for start project with O 
